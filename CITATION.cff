@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Biedermann
+    given-names: Thomas Patrick
+    
+title: "QPU calibration crosstalk error simulator"
+version: 2.0.4
+date-released: 2025-06-18
+url: "https://github.com/ThomasBiede/qss-seminar-ss25-calibration-simulation"
